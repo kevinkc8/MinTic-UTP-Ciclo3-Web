@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generado por Microsoft Visio, SVG Export Mockups.svg Login -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="16.5354in" height="11.6929in"
+		viewBox="0 0 1190.55 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st42">
+	<v:documentProperties v:langID="3082" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#798093;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:#e8e8e8;stroke:#e8e8e8;stroke-linecap:butt;stroke-width:0.25}
+		.st3 {fill:none;stroke:#7b818e;stroke-dasharray:0.75,1.5;stroke-linecap:butt;stroke-width:0.75}
+		.st4 {fill:none;stroke:#c8cbd4;stroke-linecap:butt;stroke-width:0.75}
+		.st5 {fill:none;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st6 {fill:#616771;font-family:Segoe UI Semilight;font-size:1.00001em;font-stretch:normal}
+		.st7 {fill:#4a525d;stroke:#4a525d;stroke-linecap:butt;stroke-width:0.25}
+		.st8 {stroke:#616771;stroke-linecap:butt;stroke-width:0.75}
+		.st9 {fill:none}
+		.st10 {fill:none;stroke:#616771;stroke-linecap:butt;stroke-width:0.75}
+		.st11 {fill:#616771;font-family:Segoe UI;font-size:1.00001em;font-stretch:normal}
+		.st12 {fill:#f0f1f4;stroke:#616771;stroke-linecap:butt;stroke-width:0.75}
+		.st13 {stroke:#737373;stroke-linecap:butt;stroke-width:0.75}
+		.st14 {fill:#f0f1f4;stroke:#f0f1f4;stroke-linecap:butt;stroke-width:0.25}
+		.st15 {fill:#616771;stroke:#616771;stroke-linecap:butt;stroke-width:0.25}
+		.st16 {stroke:#616872;stroke-linecap:butt;stroke-width:0.75}
+		.st17 {stroke:#616872;stroke-dasharray:1.5,0.75;stroke-linecap:butt;stroke-width:0.75}
+		.st18 {fill:#798093;stroke:#798093;stroke-linecap:butt;stroke-width:0.25}
+		.st19 {fill:#ffffff;stroke:#ffffff;stroke-linecap:butt;stroke-width:0.25}
+		.st20 {stroke:#ffffff;stroke-linecap:butt;stroke-width:0.75}
+		.st21 {fill:none;visibility:hidden}
+		.st22 {fill:#ffffff;stroke:#bfbfbf;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st23 {fill:#f0f1f5;stroke:#7b818e;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st24 {fill:#7b818e;font-family:Segoe UI;font-size:1.5em}
+		.st25 {stroke:#c8cbd4;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st26 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st27 {fill:#4a525d;font-family:Segoe UI Semibold;font-size:1.99999em}
+		.st28 {fill:#1e6ac6;font-family:Segoe UI;font-size:1.00001em}
+		.st29 {font-size:1em;text-decoration:underline}
+		.st30 {fill:#ffffff;stroke:#c8cbd4;stroke-linecap:butt;stroke-width:0.75}
+		.st31 {fill:#606771;font-family:Segoe UI;font-size:1.00001em}
+		.st32 {fill:none;stroke:#a2a6b2;stroke-linecap:butt;stroke-width:0.75}
+		.st33 {fill:#7b818e;font-family:Segoe UI;font-size:1.00001em}
+		.st34 {stroke:#606771;stroke-linecap:butt;stroke-width:0.75}
+		.st35 {fill:#7b818e;stroke:none;stroke-linecap:butt;stroke-width:0.75;visibility:hidden}
+		.st36 {fill:#798093;stroke:#798093;stroke-linecap:butt;stroke-width:0.75}
+		.st37 {fill:#000000;font-family:Segoe UI;font-size:1.00001em}
+		.st38 {stroke:#d8d8d8;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st39 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st40 {fill:#a2a6b2;font-family:Segoe UI;font-size:0.916672em}
+		.st41 {fill:#7b818e;font-family:Segoe UI;font-size:0.833336em}
+		.st42 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-149" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0.01" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="0.5" stop-color="#fefefe" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-153" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#fefefe" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="4" v:index="1" v:groupContext="foregroundPage">
+		<title>Login</title>
+		<v:pageProperties v:drawingScale="0.0138889" v:pageScale="0.0138889" v:drawingUnits="29" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Contenedor web" v:index="0"/>
+		<v:layer v:name="Contenedor" v:index="1"/>
+		<v:layer v:name="Multimedia" v:index="2"/>
+		<v:layer v:name="Texto y anotaciones" v:index="3"/>
+		<v:layer v:name="Controles web" v:index="4"/>
+		<g id="group64-1" transform="translate(78,-40)" v:mID="64" v:groupContext="group" v:layerMember="0;1">
+			<v:userDefs>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(13.75):29"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(1.9444444444444):29"/>
+				<v:ud v:nameU="TextFont" v:prompt="" v:val="VT0(270):26"/>
+				<v:ud v:nameU="TextColor" v:prompt="" v:val="VT5(#616771)"/>
+				<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Explorador de Internet)"/>
+				<v:ud v:nameU="visAltDescription" v:prompt=""
+						v:val="VT4(El explorador de Internet se usa para navegar por Internet.)"/>
+				<v:ud v:nameU="Font" v:prompt="" v:val="VT0(264):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="TextFont" v:prompt="" v:val="VT0(147):26"/>
+				<v:ud v:nameU="Font" v:prompt="" v:val="VT0(141):26"/>
+			</v:userDefs>
+			<title>Explorador de Internet</title>
+			<g id="shape65-2" v:mID="65" v:groupContext="shape">
+				<title>Browser</title>
+				<rect x="0" y="73.8898" width="1024" height="768" class="st1"/>
+			</g>
+			<g id="group66-4" transform="translate(0,-694.299)" v:mID="66" v:groupContext="group" v:layerMember="0;1">
+				<title>Top Bar Section</title>
+				<g id="shape67-5" v:mID="67" v:groupContext="shape" v:layerMember="0;1">
+					<title>Top Bar</title>
+					<rect x="0" y="768.189" width="1024" height="73.7008" class="st2"/>
+				</g>
+				<g id="group68-7" transform="translate(10.8425,-49.0165)" v:mID="68" v:groupContext="group" v:layerMember="0;1">
+					<title>Tab Icon</title>
+					<g id="shape69-8" v:mID="69" v:groupContext="shape" v:layerMember="0;1">
+						<title>Hoja.69</title>
+						<path d="M18 837.73 C18 840.03 16.11 841.89 13.78 841.89 L4.22 841.89 C1.89 841.89 0 840.03 0 837.73 L0 828.3
+									 C0 826 1.89 824.14 4.22 824.14 L13.78 824.14 C16.11 824.14 18 826 18 828.3 L18 837.73 Z"
+								class="st3"/>
+					</g>
+					<g id="shape70-10" v:mID="70" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(4.50075,-4.43776)">
+						<title>Hoja.70</title>
+						<ellipse cx="4.5" cy="837.452" rx="4.5" ry="4.43776" class="st4"/>
+					</g>
+				</g>
+				<g id="shape71-12" v:mID="71" v:groupContext="shape" v:layerMember="0;1" transform="translate(36.8504,-51.0252)">
+					<title>Tab Microsoft</title>
+					<desc>Ten Transporte S.A.S</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)"/>
+					<v:textRect cx="68.0315" cy="834.791" width="136.07" height="14.1984"/>
+					<rect x="0" y="827.691" width="136.063" height="14.1984" class="st5"/>
+					<text x="0" y="838.39" class="st6" v:langID="1033"><v:paragraph/><v:tabList/>Ten Transporte S.A.S</text>				</g>
+				<g id="shape72-15" v:mID="72" v:groupContext="shape" v:layerMember="0;1" transform="translate(182.835,-55.1732)">
+					<title>Close Tab</title>
+					<path d="M7.9 834 L4.25 837.38 L0.61 834 L0 834.57 L3.64 837.94 L0 841.33 L0.61 841.89 L4.25 838.51 L7.9 841.89
+								 L8.5 841.33 L4.86 837.94 L8.5 834.57 L7.9 834 Z" class="st7"/>
+				</g>
+				<g id="group73-17" transform="translate(14.1732,-9.56632)" v:mID="73" v:groupContext="group" v:layerMember="0;1">
+					<title>Back Button</title>
+					<g id="shape74-18" v:mID="74" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(0.435948,-8.43724)">
+						<title>Hoja.74</title>
+						<path d="M0 841.89 L16.08 841.89" class="st8"/>
+					</g>
+					<g id="shape75-21" v:mID="75" v:groupContext="shape" v:layerMember="0;1">
+						<title>Hoja.75</title>
+						<path d="M7.88 825.42 L0 833.42 L7.88 841.89 L7.88 825.42 Z" class="st9"/>
+						<path d="M7.88 825.42 L0 833.42 L7.88 841.89" class="st8"/>
+					</g>
+				</g>
+				<g id="group76-24" transform="translate(56.6929,-9.56632)" v:mID="76" v:groupContext="group" v:layerMember="0;1">
+					<title>Forward Button</title>
+					<g id="shape77-25" v:mID="77" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(16.5355,1675.45) rotate(180)">
+						<title>Hoja.77</title>
+						<path d="M0 841.89 L16.08 841.89" class="st8"/>
+					</g>
+					<g id="shape78-28" v:mID="78" v:groupContext="shape" v:layerMember="0;1" transform="translate(8.19737,0)">
+						<title>Hoja.78</title>
+						<path d="M0 826.37 L8.81 833.42 L0.93 841.89 L0 826.37 Z" class="st9"/>
+						<path d="M0 826.37 L8.81 833.42 L0.93 841.89" class="st8"/>
+					</g>
+				</g>
+				<g id="group79-31" transform="translate(107.717,-10.5079)" v:mID="79" v:groupContext="group" v:layerMember="0;1">
+					<title>Refresh</title>
+					<g id="shape80-32" v:mID="80" v:groupContext="shape" v:layerMember="0;1">
+						<title>Hoja.80</title>
+						<path d="M11.12 824.9 C14.54 826.03 17.01 829.31 17.01 833.19 C17.01 837.99 13.2 841.89 8.5 841.89 C3.81
+									 841.89 0 837.99 0 833.19 C0 829.89 1.79 827.02 4.43 825.55 L11.12 824.9 Z" class="st9"/>
+						<path d="M11.12 824.9 C14.54 826.03 17.01 829.31 17.01 833.19 C17.01 837.99 13.2 841.89 8.5 841.89 C3.81
+									 841.89 0 837.99 0 833.19 C0 829.89 1.79 827.02 4.43 825.55" class="st8"/>
+					</g>
+					<g id="shape81-35" v:mID="81" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(288.083,36.1414) rotate(20)">
+						<title>Hoja.81</title>
+						<path d="M0.35 839.85 L3.53 838.75 L3.53 841.89 L0.35 839.85 Z" class="st9"/>
+						<path d="M0.35 839.85 L3.53 838.75 L3.53 841.89" class="st8"/>
+					</g>
+				</g>
+				<g id="shape82-38" v:mID="82" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(997.795,811.469) rotate(90)">
+					<title>Separator</title>
+					<path d="M0 841.89 L21.64 841.89" class="st8"/>
+				</g>
+				<g id="group83-41" transform="translate(172.913,-12.9938)" v:mID="83" v:groupContext="group" v:layerMember="0;1">
+					<title>Lock</title>
+					<g id="shape84-42" v:mID="84" v:groupContext="shape" v:layerMember="0;1">
+						<title>Hoja.84</title>
+						<rect x="0" y="833.988" width="11.3386" height="7.90143" class="st10"/>
+					</g>
+					<g id="shape85-44" v:mID="85" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(2.25397,-7.93841)">
+						<title>Hoja.85</title>
+						<path d="M0 841.89 L0 839.79 C0 838.8 0.92 837.99 2.05 837.99 L4.78 837.99 C5.92 837.99 6.83 838.8 6.83 839.79
+									 L6.83 841.83 L0 841.89 Z" class="st9"/>
+						<path d="M0 841.89 L0 839.79 C0 838.8 0.92 837.99 2.05 837.99 L4.78 837.99 C5.92 837.99 6.83 838.8 6.83 839.79
+									 L6.83 841.83" class="st8"/>
+					</g>
+				</g>
+				<g id="shape86-47" v:mID="86" v:groupContext="shape" v:layerMember="0;1" transform="translate(202.677,-10.8968)">
+					<title>Web URL</title>
+					<desc>https://www.tentransportes.com/login.html</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)"/>
+					<v:textRect cx="272.026" cy="834.791" width="544.06" height="14.1984"/>
+					<rect x="0" y="827.691" width="544.051" height="14.1984" class="st5"/>
+					<text x="0" y="838.39" class="st11" v:langID="1033"><v:paragraph/><v:tabList/>https://www.tentransportes.com/login.html</text>				</g>
+				<g id="group87-50" transform="translate(768.882,-12.1129)" v:mID="87" v:groupContext="group" v:layerMember="0;1">
+					<title>Reading View</title>
+					<g id="shape88-51" v:mID="88" v:groupContext="shape" v:layerMember="0;1">
+						<title>Hoja.88</title>
+						<rect x="0" y="826.901" width="17.0079" height="14.9885" class="st12"/>
+					</g>
+					<g id="shape89-53" v:mID="89" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(2.68969,-1.12497)">
+						<title>Hoja.89</title>
+						<path d="M11.56 839.77 L11.56 826.25 C11.56 826.25 7.27 826.9 6.28 829.02 C6.28 829.02 0.83 825.76 0 826.58
+									 L0 840.26 C0 840.26 5.95 840.42 6.11 841.89 C6.11 841.89 8.14 839.16 11.56 839.77 Z"
+								class="st12"/>
+					</g>
+					<g id="shape90-55" v:mID="90" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(850.742,826.571) rotate(90)">
+						<title>Hoja.90</title>
+						<path d="M0 841.89 L15.31 841.89" class="st13"/>
+					</g>
+				</g>
+				<g id="group91-58" transform="translate(802.898,-13.5928)" v:mID="91" v:groupContext="group" v:layerMember="0;1">
+					<title>Add to Favourites</title>
+					<g id="shape92-59" v:mID="92" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(1.11717,-0.975567)">
+						<title>Hoja.92</title>
+						<path d="M2.86 841.89 C3.3 840.56 4.05 838.34 4.51 837.04 L4.59 836.8 L4.39 836.64 C3.53 835.96 2.59 835.3
+									 1.68 834.67 C1.12 834.28 0.55 833.89 0 833.48 L5.64 833.48 L5.74 833.23 C6.15 832.1 6.54 830.92
+									 6.92 829.78 C7.08 829.29 7.24 828.8 7.4 828.31 C7.87 829.71 8.34 831.12 8.8 832.52 L9.12 833.48
+									 L14.73 833.48 C13.56 834.34 11.54 835.8 10.43 836.57 L10.2 836.73 L10.29 836.98 C10.74 838.31
+									 11.49 840.55 11.94 841.88 C10.74 841.05 8.76 839.66 7.67 838.9 L7.43 838.74 L7.19 838.9 C6.08
+									 839.66 4.06 841.06 2.86 841.89 Z" class="st14"/>
+					</g>
+					<g id="shape93-61" v:mID="93" v:groupContext="shape" v:layerMember="0;1">
+						<title>Hoja.93</title>
+						<path d="M8.52 828.59 C8.86 829.62 9.2 830.65 9.54 831.66 L9.77 832.36 L9.94 832.88 L10.53 832.88 L14.69
+									 832.88 C13.56 833.7 12.16 834.71 11.31 835.3 L10.86 835.62 L11.03 836.12 C11.37 837.13 11.89
+									 838.66 12.31 839.92 C11.19 839.14 9.85 838.21 9.03 837.63 L8.56 837.3 L8.08 837.63 C7.23 838.2
+									 5.86 839.15 4.72 839.94 C5.14 838.68 5.65 837.16 6.01 836.18 L6.17 835.71 L5.77 835.39 C4.9
+									 834.69 3.95 834.04 3.03 833.4 C2.78 833.22 2.53 833.05 2.29 832.88 L6.48 832.88 L7.05 832.88
+									 L7.23 832.38 C7.65 831.24 8.04 830.06 8.41 828.91 C8.45 828.8 8.49 828.7 8.52 828.59 ZM8.52
+									 826.11 C7.82 828.11 7.2 830.17 6.48 832.14 C4.32 832.14 2.16 832.14 0 832.14 C1.62 833.42 3.58
+									 834.62 5.25 835.95 C4.55 837.9 3.24 841.89 3.24 841.89 C3.24 841.89 6.89 839.35 8.55 838.22
+									 C10.17 839.36 13.8 841.89 13.8 841.89 C13.8 841.89 12.46 837.89 11.79 835.89 C13.42 834.75 17.01
+									 832.14 17.01 832.14 C17.01 832.14 12.69 832.14 10.53 832.14 C9.87 830.13 9.2 828.11 8.52 826.11
+									 Z" class="st15"/>
+					</g>
+				</g>
+				<g id="shape94-63" v:mID="94" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(1692.98,808.309) rotate(90)">
+					<title>Separator.29</title>
+					<path d="M0 841.89 L24.2 841.89" class="st8"/>
+				</g>
+				<g id="group95-66" transform="translate(879.433,-16.8694)" v:mID="95" v:groupContext="group" v:layerMember="0;1">
+					<title>Hub</title>
+					<g id="shape96-67" v:mID="96" v:groupContext="shape" v:layerMember="0;1" transform="translate(0,-9.22314)">
+						<title>Hoja.96</title>
+						<path d="M0 841.89 L12.45 841.89" class="st8"/>
+					</g>
+					<g id="shape97-70" v:mID="97" v:groupContext="shape" v:layerMember="0;1" transform="translate(0,-4.61009)">
+						<title>Hoja.97</title>
+						<path d="M0 841.89 L17.01 841.89" class="st8"/>
+					</g>
+					<g id="shape98-73" v:mID="98" v:groupContext="shape" v:layerMember="0;1">
+						<title>Hoja.98</title>
+						<path d="M0 841.89 L9.11 841.89" class="st8"/>
+					</g>
+				</g>
+				<g id="group99-76" transform="translate(919.118,-13.5921)" v:mID="99" v:groupContext="group" v:layerMember="0;1">
+					<title>Make a Web Note</title>
+					<g id="group100-77" transform="translate(1.74272,-1.48739)" v:mID="100" v:groupContext="group"
+							v:layerMember="0;1">
+						<title>Hoja.100</title>
+						<g id="shape101-78" v:mID="101" v:groupContext="shape" v:layerMember="0;1" transform="translate(12.5856,0)">
+							<title>Hoja.101</title>
+							<path d="M0.8 841.15 L0.8 841.89 L0 841.89 L0.8 841.15 Z" class="st9"/>
+							<path d="M0.8 841.15 L0.8 841.89 L0 841.89" class="st16"/>
+						</g>
+						<g id="shape102-81" v:mID="102" v:groupContext="shape" v:layerMember="0;1"
+								transform="translate(11.8492,1683.78) rotate(180)">
+							<title>Hoja.102</title>
+							<path d="M0 841.89 L10.68 841.89" class="st17"/>
+						</g>
+						<g id="shape103-84" v:mID="103" v:groupContext="shape" v:layerMember="0;1">
+							<title>Hoja.103</title>
+							<path d="M0.8 841.89 L0 841.89 L0 841.15 L0.8 841.89 Z" class="st9"/>
+							<path d="M0.8 841.89 L0 841.89 L0 841.15" class="st16"/>
+						</g>
+						<g id="shape104-87" v:mID="104" v:groupContext="shape" v:layerMember="0;1"
+								transform="translate(-841.89,840.467) rotate(-90)">
+							<title>Hoja.104</title>
+							<path d="M0 841.89 L9.91 841.89" class="st17"/>
+						</g>
+						<g id="shape105-90" v:mID="105" v:groupContext="shape" v:layerMember="0;1"
+								transform="translate(6.69464E-14,-11.6757)">
+							<title>Hoja.105</title>
+							<path d="M0 841.89 L0 841.15 L0.8 841.15 L0 841.89 Z" class="st9"/>
+							<path d="M0 841.89 L0 841.15 L0.8 841.15" class="st16"/>
+						</g>
+						<g id="shape106-93" v:mID="106" v:groupContext="shape" v:layerMember="0;1"
+								transform="translate(1.53506,-12.4154)">
+							<title>Hoja.106</title>
+							<path d="M0 841.89 L10.68 841.89" class="st17"/>
+						</g>
+						<g id="shape107-96" v:mID="107" v:groupContext="shape" v:layerMember="0;1"
+								transform="translate(12.5856,-11.6757)">
+							<title>Hoja.107</title>
+							<path d="M0 841.15 L0.8 841.15 L0.8 841.89 L0 841.15 Z" class="st9"/>
+							<path d="M0 841.15 L0.8 841.15 L0.8 841.89" class="st16"/>
+						</g>
+						<g id="shape108-99" v:mID="108" v:groupContext="shape" v:layerMember="0;1"
+								transform="translate(855.274,830.897) rotate(90)">
+							<title>Hoja.108</title>
+							<path d="M0 841.89 L9.91 841.89" class="st17"/>
+						</g>
+					</g>
+					<g id="shape109-102" v:mID="109" v:groupContext="shape" v:layerMember="0;1" transform="translate(13.3827,0)">
+						<title>Hoja.109</title>
+						<rect x="0" y="838.527" width="3.6252" height="3.36308" class="st12"/>
+					</g>
+					<g id="shape110-104" v:mID="110" v:groupContext="shape" v:layerMember="0;1">
+						<title>Hoja.110</title>
+						<rect x="0" y="838.527" width="3.6252" height="3.36308" class="st12"/>
+					</g>
+					<g id="shape111-106" v:mID="111" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(-8.49321E-14,-12.4139)">
+						<title>Hoja.111</title>
+						<rect x="0" y="838.527" width="3.6252" height="3.36234" class="st12"/>
+					</g>
+					<g id="shape112-108" v:mID="112" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(5.94662,-4.86919)">
+						<title>Hoja.112</title>
+						<path d="M7.5 831.3 C7.5 831.3 9.88 831.05 9.76 833.02 L2.76 840.91 L0 841.89 L0.69 838.98 L7.5 831.3 Z"
+								class="st12"/>
+					</g>
+				</g>
+				<g id="group113-110" transform="translate(955.969,-13.5921)" v:mID="113" v:groupContext="group" v:layerMember="0;1">
+					<title>Share</title>
+					<g id="shape114-111" v:mID="114" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(1.42425,-2.33665E-05)">
+						<title>Hoja.114</title>
+						<ellipse cx="6.82894" cy="835.061" rx="6.82894" ry="6.82894" class="st10"/>
+					</g>
+					<g id="shape115-113" v:mID="115" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(6.25288,-11.8923)">
+						<title>Hoja.115</title>
+						<ellipse cx="2.00032" cy="839.89" rx="2.00032" ry="2.00013" class="st12"/>
+					</g>
+					<g id="shape116-115" v:mID="116" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(13.0056,-1.64834)">
+						<title>Hoja.116</title>
+						<ellipse cx="2.00111" cy="839.889" rx="2.00111" ry="2.00098" class="st12"/>
+					</g>
+					<g id="shape117-117" v:mID="117" v:groupContext="shape" v:layerMember="0;1" transform="translate(0,-1.64834)">
+						<title>Hoja.117</title>
+						<ellipse cx="2.00111" cy="839.889" rx="2.00111" ry="2.00098" class="st12"/>
+					</g>
+				</g>
+				<g id="group118-119" transform="translate(992.819,-19.6355)" v:mID="118" v:groupContext="group" v:layerMember="0;1">
+					<title>More</title>
+					<g id="shape119-120" v:mID="119" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(13.43,-0.0547087)">
+						<title>Hoja.119</title>
+						<ellipse cx="1.78896" cy="840.101" rx="1.78896" ry="1.78923" class="st15"/>
+					</g>
+					<g id="shape120-122" v:mID="120" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(7.16301,-0.0538583)">
+						<title>Hoja.120</title>
+						<ellipse cx="1.78976" cy="840.1" rx="1.78976" ry="1.79008" class="st15"/>
+					</g>
+					<g id="shape121-124" v:mID="121" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(-8.56815E-14,-0.0530079)">
+						<title>Hoja.121</title>
+						<ellipse cx="1.79135" cy="840.099" rx="1.79135" ry="1.79093" class="st15"/>
+					</g>
+				</g>
+				<g id="shape122-126" v:mID="122" v:groupContext="shape" v:layerMember="0;1" transform="translate(204.094,-45.4752)">
+					<title>Tab Bar</title>
+					<rect x="0" y="813.664" width="819.906" height="28.2256" class="st18"/>
+				</g>
+				<g id="shape123-128" v:mID="123" v:groupContext="shape" v:layerMember="0;1" transform="translate(213.337,-54.1872)">
+					<title>Add Tab</title>
+					<path d="M4.55 832.03 L4.55 836.58 L0 836.58 L0 837.34 L4.55 837.34 L4.55 841.89 L5.31 841.89 L5.31 837.34 L9.86
+								 837.34 L9.86 836.58 L5.31 836.58 L5.31 832.03 L4.55 832.03 Z" class="st19"/>
+				</g>
+				<g id="shape124-130" v:mID="124" v:groupContext="shape" v:layerMember="0;1" transform="translate(943.213,-59.7662)">
+					<title>Minimize</title>
+					<path d="M0 841.89 L8.5 841.89" class="st20"/>
+				</g>
+				<g id="shape125-133" v:mID="125" v:groupContext="shape" v:layerMember="0;1" transform="translate(974.396,-55.7529)">
+					<title>Maximize</title>
+					<rect x="0" y="833.391" width="8.874" height="8.4992" class="st21"/>
+					<rect x="0" y="833.391" width="8.874" height="8.4992" class="st20"/>
+				</g>
+				<g id="shape126-136" v:mID="126" v:groupContext="shape" v:layerMember="0;1" transform="translate(1002.74,-55.8064)">
+					<title>Close Browser</title>
+					<path d="M7.89 833.39 L4.25 837.03 L0.61 833.39 L0 833.99 L3.64 837.64 L0 841.28 L0.61 841.89 L4.25 838.25 L7.89
+								 841.89 L8.5 841.28 L4.86 837.64 L8.5 833.99 L7.89 833.39 Z" class="st19"/>
+				</g>
+			</g>
+		</g>
+		<g id="group203-138" transform="translate(366,-148.718)" v:mID="203" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Contenedor de página de inicio de sesión)"/>
+				<v:ud v:nameU="visAltDescription" v:prompt=""
+						v:val="VT4(Arrástrelo a la página para especificar un segmento de inicio de sesión.)"/>
+				<v:ud v:nameU="Font" v:prompt="" v:val="VT0(189):26"/>
+				<v:ud v:nameU="FontBold" v:prompt="" v:val="VT0(194):26"/>
+				<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(5.5555555555556):29"/>
+				<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(4.8611111111111):29"/>
+				<v:ud v:nameU="Font" v:prompt="" v:val="VT0(141):26"/>
+				<v:ud v:nameU="FontBold" v:prompt="" v:val="VT0(146):26"/>
+			</v:userDefs>
+			<title>Contenedor de la página de inicio de sesión</title>
+			<g id="group204-139" v:mID="204" v:groupContext="group" v:layerMember="1;0">
+				<v:userDefs>
+					<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(ContainerStyleDefaults)"/>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+					<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.125):0"/>
+					<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(14):26"/>
+					<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+					<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(4):26"/>
+					<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="FnForceContrast" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HColor1" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="HColor2" v:prompt="" v:val="VT5(#fefefe)"/>
+					<v:ud v:nameU="HColor3" v:prompt="" v:val="VT5(#e9e9e9)"/>
+					<v:ud v:nameU="HColor4" v:prompt="" v:val="VT5(#efefef)"/>
+					<v:ud v:nameU="BColor1" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BColor2" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="LineColor" v:prompt="" v:val="VT5(#d5d5d5)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Contenedor de página de inicio de sesión)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt=""
+							v:val="VT4(Arrástrelo a la página para especificar un segmento de inicio de sesión.)"/>
+				</v:userDefs>
+				<title>Container</title>
+				<g id="group205-140" v:mID="205" v:groupContext="group" v:layerMember="1;0">
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Corner6" v:prompt="" v:val="VT0(0.2):0"/>
+						<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+						<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#1f477d)"/>
+					</v:userDefs>
+					<title>Hoja.205</title>
+					<g id="shape206-141" v:mID="206" v:groupContext="shape" v:layerMember="1;0" transform="translate(2.88,2.88)">
+						<title>Hoja.206</title>
+						<v:userDefs>
+							<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+							<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="OffsetX10" v:prompt="" v:val="VT0(0.04):0"/>
+							<v:ud v:nameU="OffsetY10" v:prompt="" v:val="VT0(-0.04):0"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#1f477d)"/>
+						</v:userDefs>
+					</g>
+					<g id="shape205-143" v:mID="205" v:groupContext="groupContent" v:layerMember="1;0">
+						<path d="M0 841.89 L224 841.89 L448 841.89 L448 360.61 L224 360.61 L0 360.61 L0 841.89 Z" class="st22"/>
+					</g>
+				</g>
+				<g id="group207-145" transform="translate(0,-481.282)" v:mID="207" v:groupContext="group" v:layerMember="1;0">
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(1):5"/>
+						<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0):1"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+						<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):0"/>
+						<v:ud v:nameU="InsideRadius" v:prompt="" v:val="VT0(0):0"/>
+						<v:ud v:nameU="InsetXInt" v:prompt="" v:val="VT0(0):0"/>
+						<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.0625):0"/>
+						<v:ud v:nameU="HTxtWidth" v:prompt="" v:val="VT0(5.8333346456693):24"/>
+						<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(5.8333346456693):24"/>
+						<v:ud v:nameU="SquareCorners7" v:prompt="" v:val="VT0(3):26"/>
+						<v:ud v:nameU="Offset" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Rounding8" v:prompt="" v:val="VT0(0):1"/>
+						<v:ud v:nameU="InsetX9" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="InsetY9" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="OffsetY11" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="OffsetY12" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="Width12" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+						<v:ud v:nameU="HLineVisible" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="HFillVisible" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT5(#ffffff)"/>
+						<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(30):26"/>
+						<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+						<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+						<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="HTxtWidth" v:prompt="" v:val="VT0(6.2222228783902):1"/>
+						<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(6.2222228783902):1"/>
+					</v:userDefs>
+					<title>Hoja.207</title>
+					<desc>Título</desc>
+					<g id="shape208-146" v:mID="208" v:groupContext="shape" v:layerMember="1;0">
+						<title>Hoja.208</title>
+						<v:userDefs>
+							<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+							<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0):1"/>
+							<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+							<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(5.8333346456693):24"/>
+							<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(1):5"/>
+							<v:ud v:nameU="BowHeight7" v:prompt="" v:val="VT0(0.125):0"/>
+							<v:ud v:nameU="Offset7" v:prompt="" v:val="VT0(0.0052083333333333):3"/>
+							<v:ud v:nameU="AnchorPt7" v:prompt="" v:val="VT0(0.11979166666667):0"/>
+							<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(6.2222228783902):1"/>
+						</v:userDefs>
+					</g>
+					<g id="shape207-150" v:mID="207" v:groupContext="groupContent" v:layerMember="1;0">
+						<v:textBlock v:margins="rect(4,6,4,6)" v:tabSpace="42.5197"/>
+						<v:textRect cx="224" cy="841.89" width="448.01" height="22.5"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape209-154" v:mID="209" v:groupContext="shape" v:layerMember="3" transform="translate(15.3811,-410.667)">
+				<title>Logo</title>
+				<desc>LOGOTIPO</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.3717812292986):1"/>
+					<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.41116111111111):1"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Logotipo)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt=""
+							v:val="VT4(El logotipo se usa para mostrar el logotipo de un contorno reticular.)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="53.3207" cy="815.223" width="106.65" height="53.3333"/>
+				<rect x="0" y="788.556" width="106.641" height="53.3333" class="st23"/>
+				<text x="10.4" y="820.62" class="st24" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>LOGOTIPO</text>			</g>
+			<g id="shape210-157" v:mID="210" v:groupContext="shape" v:layerMember="3" transform="translate(12.9393,-397.538)">
+				<title>Seperator.37</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Barra separadora)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt=""
+							v:val="VT4(La barra separadora se usa para mostrar una separación entre los textos de una página web.)"/>
+				</v:userDefs>
+				<path d="M0 841.89 L426.9 841.89" class="st25"/>
+			</g>
+			<g id="shape211-160" v:mID="211" v:groupContext="shape" v:layerMember="3" transform="translate(15.3811,-346.73)">
+				<title>Title</title>
+				<desc>Iniciar sesión</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.1594933264666):1"/>
+					<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.5111595852322):1"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(194):26"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Título)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt=""
+							v:val="VT4(El título se usa para mostrar el título de un contorno reticular)"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(146):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="79.9811" cy="822.261" width="159.97" height="39.2571"/>
+				<rect x="0" y="802.633" width="159.962" height="39.2571" class="st26"/>
+				<text x="4" y="829.46" class="st27" v:langID="3082"><v:paragraph/><v:tabList/>Iniciar sesión</text>			</g>
+			<g id="shape212-163" v:mID="212" v:groupContext="shape" v:layerMember="3" transform="translate(291.619,-358.677)">
+				<title>Text Hyperlink</title>
+				<desc>¿Ha olvidado la contraseña?</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.9447178171621):1"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(189):26"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Hipervínculo de texto)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt=""
+							v:val="VT4(El hipervínculo de texto se usa para mostrar un vínculo interactivo en texto.)"/>
+					<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.20005152587891):1"/>
+					<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.1025203989492):1"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(141):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(0,0,0,0)"/>
+				<v:textRect cx="75.6907" cy="834.208" width="151.39" height="15.364"/>
+				<rect x="0" y="826.526" width="151.381" height="15.364" class="st5"/>
+				<text x="-0" y="837.81" class="st28" v:langID="3082"><v:paragraph/><v:tabList/><tspan class="st29">¿Ha olvidado la contraseña?</tspan></text>			</g>
+			<g id="group213-167" transform="translate(12.8316,-304.136)" v:mID="213" v:groupContext="group" v:layerMember="3">
+				<v:userDefs>
+					<v:ud v:nameU="FontFamily" v:prompt="" v:val="VT0(189):26"/>
+					<v:ud v:nameU="TextColor" v:prompt="" v:val="VT5(#606771)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Cuadro de texto)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt="" v:val="VT4(El cuadro de texto se usa para escribir texto.)"/>
+					<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.5):0"/>
+					<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.4167):0"/>
+					<v:ud v:nameU="FontFamily" v:prompt="" v:val="VT0(141):26"/>
+				</v:userDefs>
+				<title>User ID Text Box</title>
+				<g id="shape214-168" v:mID="214" v:groupContext="shape" v:layerMember="3">
+					<title>User ID Text</title>
+					<desc>Id. de usuario</desc>
+					<v:userDefs>
+						<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.5):0"/>
+						<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.20005152587891):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="212.871" cy="825.828" width="425.75" height="32.1233"/>
+					<path d="M425.74 809.77 L422.31 809.77 L3.43 809.77 L0 809.77 L0 811 L0 840.65 L0 841.89 L3.43 841.89 L422.31
+								 841.89 L425.74 841.89 L425.74 840.65 L425.74 811 L425.74 809.77 Z" class="st30"/>
+					<text x="10" y="829.43" class="st31" v:langID="3082"><v:paragraph v:indentLeft="10"/><v:tabList/>Id. de usuario</text>				</g>
+			</g>
+			<g id="group215-171" transform="translate(12.8316,-265.896)" v:mID="215" v:groupContext="group" v:layerMember="3">
+				<v:userDefs>
+					<v:ud v:nameU="FontFamily" v:prompt="" v:val="VT0(189):26"/>
+					<v:ud v:nameU="TextColor" v:prompt="" v:val="VT5(#606771)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Cuadro de texto)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt="" v:val="VT4(El cuadro de texto se usa para escribir texto.)"/>
+					<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.5):0"/>
+					<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.4167):0"/>
+					<v:ud v:nameU="FontFamily" v:prompt="" v:val="VT0(141):26"/>
+				</v:userDefs>
+				<title>Password Text Box</title>
+				<g id="shape216-172" v:mID="216" v:groupContext="shape" v:layerMember="3">
+					<title>Password Text</title>
+					<desc>Contraseña</desc>
+					<v:userDefs>
+						<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.5):0"/>
+						<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.20005152587891):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="212.871" cy="825.828" width="425.75" height="32.1233"/>
+					<path d="M425.74 809.77 L422.31 809.77 L3.43 809.77 L0 809.77 L0 811 L0 840.65 L0 841.89 L3.43 841.89 L422.31
+								 841.89 L425.74 841.89 L425.74 840.65 L425.74 811 L425.74 809.77 Z" class="st30"/>
+					<text x="10" y="829.43" class="st31" v:langID="3082"><v:paragraph v:indentLeft="10"/><v:tabList/>Contraseña</text>				</g>
+			</g>
+			<g id="group217-175" transform="translate(26.3785,-222.038)" v:mID="217" v:groupContext="group" v:layerMember="4">
+				<v:userDefs>
+					<v:ud v:nameU="State" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="CBFillColor" v:prompt="" v:val="VT5(#7b818e)"/>
+					<v:ud v:nameU="CBText" v:prompt="" v:val="VT4(Activado)"/>
+					<v:ud v:nameU="CheckStatus" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Casilla)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt="" v:val="VT4(La casilla se usa para seleccionar una opción.)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(189):26"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(141):26"/>
+				</v:userDefs>
+				<title>Show Password</title>
+				<g id="shape218-176" v:mID="218" v:groupContext="shape" v:layerMember="4"
+						transform="translate(-0.00110408,-1.11953)">
+					<title>Checkbox</title>
+					<v:userDefs>
+						<v:ud v:nameU="FillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+						<v:ud v:nameU="FillPattern" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<rect x="0" y="829.39" width="11.9886" height="12.4999" class="st32"/>
+				</g>
+				<g id="shape219-178" v:mID="219" v:groupContext="shape" v:layerMember="4" transform="translate(20.6929,0)">
+					<title>Show Password Text</title>
+					<desc>Mostrar contraseña</desc>
+					<v:userDefs>
+						<v:ud v:nameU="TextVal" v:prompt="" v:val="VT4(Activado)"/>
+						<v:ud v:nameU="TextColor" v:prompt="" v:val="VT5(#7b818e)"/>
+						<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.3780674265371):1"/>
+						<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.4717373178945):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(0,0,0,0)"/>
+					<v:textRect cx="52.9825" cy="834.39" width="105.97" height="15"/>
+					<rect x="0" y="826.89" width="105.965" height="15" class="st5"/>
+					<text x="0" y="837.99" class="st33" v:langID="3082"><v:paragraph/><v:tabList/>Mostrar contraseña</text>				</g>
+				<g id="shape220-181" v:mID="220" v:groupContext="shape" v:layerMember="4" transform="translate(2.49389,-4.68312)">
+					<title>Check or Uncheck</title>
+					<v:userDefs>
+						<v:ud v:nameU="ShoworHide" v:prompt="" v:val="VT0(0):5"/>
+					</v:userDefs>
+					<path d="M0 839.31 L2.83 841.89 L7.49 836.25 L0 839.31 Z" class="st9"/>
+					<path d="M0 839.31 L2.83 841.89 L7.49 836.25" class="st34"/>
+				</g>
+				<g id="shape221-184" v:mID="221" v:groupContext="shape" v:layerMember="4" transform="translate(3.18139,-4.24639)">
+					<title>Check or Uncheck 2</title>
+					<v:userDefs>
+						<v:ud v:nameU="ShoworHide" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<rect x="0" y="835.641" width="5.99429" height="6.24922" class="st35"/>
+				</g>
+			</g>
+			<g id="group222-186" transform="translate(26.3785,-195.372)" v:mID="222" v:groupContext="group" v:layerMember="4">
+				<v:userDefs>
+					<v:ud v:nameU="State" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="CBFillColor" v:prompt="" v:val="VT5(#7b818e)"/>
+					<v:ud v:nameU="CBText" v:prompt="" v:val="VT4(Desactivado)"/>
+					<v:ud v:nameU="CheckStatus" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Casilla)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt="" v:val="VT4(La casilla se usa para seleccionar una opción.)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(189):26"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(141):26"/>
+				</v:userDefs>
+				<title>Keep me signed in</title>
+				<g id="shape223-187" v:mID="223" v:groupContext="shape" v:layerMember="4"
+						transform="translate(-0.00112008,-1.11955)">
+					<title>Checkbox</title>
+					<v:userDefs>
+						<v:ud v:nameU="FillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+						<v:ud v:nameU="FillPattern" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<rect x="0" y="829.39" width="11.9886" height="12.4999" class="st32"/>
+				</g>
+				<g id="shape224-189" v:mID="224" v:groupContext="shape" v:layerMember="4" transform="translate(20.6929,0)">
+					<title>Keep me signed in Text</title>
+					<desc>Mantener sesión iniciada.</desc>
+					<v:userDefs>
+						<v:ud v:nameU="TextVal" v:prompt="" v:val="VT4(Desactivado)"/>
+						<v:ud v:nameU="TextColor" v:prompt="" v:val="VT5(#7b818e)"/>
+						<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.7794422434316):1"/>
+						<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.9060673044668):1"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(0,0,0,0)"/>
+					<v:textRect cx="68.6184" cy="834.39" width="137.24" height="15"/>
+					<rect x="0" y="826.89" width="137.237" height="15" class="st5"/>
+					<text x="0" y="837.99" class="st33" v:langID="3082"><v:paragraph/><v:tabList/>Mantener sesión iniciada.</text>				</g>
+				<g id="shape225-192" v:mID="225" v:groupContext="shape" v:layerMember="4" transform="translate(2.49389,-4.68312)">
+					<title>Check or Uncheck</title>
+					<v:userDefs>
+						<v:ud v:nameU="ShoworHide" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+				</g>
+				<g id="shape226-194" v:mID="226" v:groupContext="shape" v:layerMember="4" transform="translate(3.18139,-4.24639)">
+					<title>Check or Uncheck 2</title>
+					<v:userDefs>
+						<v:ud v:nameU="ShoworHide" v:prompt="" v:val="VT0(1):5"/>
+					</v:userDefs>
+					<rect x="0" y="835.641" width="5.99429" height="6.24922" class="st35"/>
+				</g>
+			</g>
+			<g id="group227-196" transform="translate(12.9393,-143.975)" v:mID="227" v:groupContext="group" v:layerMember="4">
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="VisDescription" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Type" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="State" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ButtonFillColour" v:prompt="" v:val="VT5(#798093)"/>
+					<v:ud v:nameU="LinePattern" v:prompt="," v:val="VT0(1):26"/>
+					<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(1.1111111111111):29"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Botón)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt=""
+							v:val="VT4(El usuario usa los botones para realizar acciones al hacer clic.)"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(201):26"/>
+					<v:ud v:nameU="Txtwidth" v:prompt="" v:val="VT0(1.1111111111111):29"/>
+					<v:ud v:nameU="TxtHeight" v:prompt="" v:val="VT0(0.31116263699002):1"/>
+					<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.13888888888889):29"/>
+					<v:ud v:nameU="LineColor" v:prompt="" v:val="VT5(#798093)"/>
+				</v:userDefs>
+				<title>Sign in</title>
+				<desc>Iniciar sesión</desc>
+				<g id="group228-197" transform="translate(2.07834E-12,-0.00105907)" v:mID="228" v:groupContext="group"
+						v:layerMember="4">
+					<title>Hoja.228</title>
+				</g>
+				<g id="group229-198" transform="translate(5.07889E-06,0)" v:mID="229" v:groupContext="group" v:layerMember="4">
+					<title>Hoja.229</title>
+					<g id="shape230-199" v:mID="230" v:groupContext="shape" v:layerMember="4">
+						<title>Hoja.230</title>
+						<rect x="0" y="809.885" width="426.048" height="32.0053" class="st36"/>
+					</g>
+				</g>
+				<g id="shape231-201" v:mID="231" v:groupContext="shape" v:layerMember="4">
+					<title>Rounded Rectangle</title>
+					<v:userDefs>
+						<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+						<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+						<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.20836753937008):24"/>
+						<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.20836753937008):24"/>
+						<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.20836753937008):24"/>
+						<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.20836753937008):24"/>
+						<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+						<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.22225868209788):1"/>
+						<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.22225868209788):1"/>
+						<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.22225868209788):1"/>
+						<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.22225868209788):1"/>
+					</v:userDefs>
+				</g>
+				<g id="shape227-203" v:mID="227" v:groupContext="groupContent" v:layerMember="4">
+					<v:textBlock v:margins="rect(4,4,4,4)"/>
+					<v:textRect cx="213.024" cy="825.887" width="426.05" height="32.0053"/>
+					<text x="178.98" y="829.49" class="st37" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>Iniciar sesión</text>				</g>
+			</g>
+			<g id="shape232-205" v:mID="232" v:groupContext="shape" v:layerMember="3" transform="translate(12.9393,-119.704)">
+				<title>New Account Separator</title>
+				<desc>Nueva cuenta</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Barra separadora)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt=""
+							v:val="VT4(La barra separadora se usa para mostrar una separación entre los textos de una página web.)"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(189):26"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(141):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="213.448" cy="841.89" width="426.9" height="0"/>
+				<path d="M0 841.89 L426.9 841.89" class="st38"/>
+				<rect v:rectContext="textBkgnd" x="178.594" y="835.29" width="69.7066" height="13.2001" class="st39"/>
+				<text x="181.61" y="845.19" class="st40" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>Nueva cuenta  </text>			</g>
+			<g id="group233-210" transform="translate(12.9393,-63.9864)" v:mID="233" v:groupContext="group" v:layerMember="4">
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="VisDescription" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Type" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="State" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ButtonFillColour" v:prompt="" v:val="VT5(#798093)"/>
+					<v:ud v:nameU="LinePattern" v:prompt="," v:val="VT0(1):26"/>
+					<v:ud v:nameU="MinWidth" v:prompt="" v:val="VT0(1.5833333333333):29"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Botón)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt=""
+							v:val="VT4(El usuario usa los botones para realizar acciones al hacer clic.)"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(201):26"/>
+					<v:ud v:nameU="Txtwidth" v:prompt="" v:val="VT0(1.5833333333333):29"/>
+					<v:ud v:nameU="TxtHeight" v:prompt="" v:val="VT0(0.31116263699002):1"/>
+					<v:ud v:nameU="MinHeight" v:prompt="" v:val="VT0(0.13888888888889):29"/>
+					<v:ud v:nameU="LineColor" v:prompt="" v:val="VT5(#798093)"/>
+				</v:userDefs>
+				<title>Create new account</title>
+				<desc>Crear cuenta nueva</desc>
+				<g id="group234-211" transform="translate(2.07834E-12,-0.00105907)" v:mID="234" v:groupContext="group"
+						v:layerMember="4">
+					<title>Hoja.234</title>
+				</g>
+				<g id="group235-212" transform="translate(5.07889E-06,0)" v:mID="235" v:groupContext="group" v:layerMember="4">
+					<title>Hoja.235</title>
+					<g id="shape236-213" v:mID="236" v:groupContext="shape" v:layerMember="4">
+						<title>Hoja.236</title>
+						<rect x="0" y="809.885" width="426.048" height="32.0053" class="st36"/>
+					</g>
+				</g>
+				<g id="shape237-215" v:mID="237" v:groupContext="shape" v:layerMember="4">
+					<title>Rounded Rectangle</title>
+					<v:userDefs>
+						<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+						<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+						<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.20836753937008):24"/>
+						<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.20836753937008):24"/>
+						<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.20836753937008):24"/>
+						<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.20836753937008):24"/>
+						<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+						<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.22225868209788):1"/>
+						<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.22225868209788):1"/>
+						<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.22225868209788):1"/>
+						<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.22225868209788):1"/>
+					</v:userDefs>
+				</g>
+				<g id="shape233-217" v:mID="233" v:groupContext="groupContent" v:layerMember="4">
+					<v:textBlock v:margins="rect(4,4,4,4)"/>
+					<v:textRect cx="213.024" cy="825.887" width="426.05" height="32.0053"/>
+					<text x="162.02" y="829.49" class="st37" v:langID="3082"><v:paragraph v:horizAlign="1"/><v:tabList/>Crear cuenta nueva</text>				</g>
+			</g>
+			<g id="shape238-219" v:mID="238" v:groupContext="shape" v:layerMember="3" transform="translate(13.062,-22.3796)">
+				<title>Paragraph Text</title>
+				<desc>Regístrese para obtener cuenta de logotipo</desc>
+				<v:userDefs>
+					<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.4722222222222):1"/>
+					<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.16671717529297):1"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(189):26"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visAltText" v:prompt="" v:val="VT4(Texto de párrafo)"/>
+					<v:ud v:nameU="visAltDescription" v:prompt=""
+							v:val="VT4(El texto de párrafo se usa para mostrar texto en una página web.)"/>
+					<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.6944444444444):1"/>
+					<v:ud v:nameU="Font" v:prompt="" v:val="VT0(141):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:verticalAlign="0"/>
+				<v:textRect cx="212.867" cy="829.088" width="425.74" height="25.6042"/>
+				<rect x="0" y="816.286" width="425.734" height="25.6042" class="st5"/>
+				<text x="0" y="825.29" class="st41" v:langID="3082"><v:paragraph/><v:tabList/>Regístrese para obtener cuenta de logotipo</text>			</g>
+		</g>
+	</g>
+</svg>
