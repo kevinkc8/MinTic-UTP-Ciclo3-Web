@@ -1,7 +1,24 @@
-# Proyecto: Informe Preoperacional de Vehículos para el servicio Público
+# my
 
-## Objetivo:
+## Project setup
+```
+npm install
+```
 
-Crear una aplicación web que permita el registro en línea de la *lista de verificación del estado de los vehículos* y así digitalizar el proceso que actualmente se hace en **físico**.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-Página de la empresa: [TEN TRANSPORTES S.A.S](https://www.tentransportes.com/).
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
