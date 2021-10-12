@@ -1,5 +1,5 @@
 <template>
-<div style="background-color:antiquewhite;  height: 1200px;">
+<div style="background-color:antiquewhite;  height: 1500px;">
  <v-toolbar id="menu-fixed"
      
       
@@ -46,18 +46,19 @@
     <listaadministradores></listaadministradores>
     <registroadmin></registroadmin>
 
-    <Footer></Footer>
+    
   
 </div>
 </template>
 
 <script>
 import Listaadministradores from '../../components/administrador/Listaadministradores.vue'
-import  Registroadmin from '../../components/administrador/Registroadmin.vue'
-import Footer from '@/components/Footer.vue'
+
+
+
 
 export default {
-    components: {Listaadministradores, Registroadmin, Footer},
+    components: {Listaadministradores},
    
         
 }

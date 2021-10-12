@@ -1,7 +1,7 @@
 
 
 <template>
- <div style="background-color:antiquewhite;  height: 600px;">
+ <div style="background-color:antiquewhite;  height: 1400px;">
    <v-toolbar id="menu-fixed"
      
       
@@ -54,14 +54,13 @@
     
   <listavehiculos></listavehiculos>
 
-  <Footer></Footer>
+  
  </div>
 </template>
 <script>
   import Listavehiculos from '../../components/administrador/Listavehiculos.vue'
-  import Footer from '@/components/Footer.vue'
   export default {
-      components: { Listavehiculos, Footer},
+      components: { Listavehiculos,},
     
           
   }

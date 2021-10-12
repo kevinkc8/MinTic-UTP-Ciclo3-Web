@@ -1,12 +1,16 @@
 //Importar express
 const express = require('express');
-const serverVehiculo = require('./routers/vehiculo');
-const serverAdministrador = require('./routers/administrador');
-const serverConductor = require('./routers/conductor');
+const serverVehiculos = require('./routers/vehiculos');
+const serverConductores = require('./routers/conductores');
+const serverAdministradores = require('./routers/administradores');
+const serverSuperAd = require('./routers/superAd');
+
 //Importar mongoose
 const mongoose = require('mongoose');
 //Importar url de conexión a la BD
 const database = require('./database/db');
+//importar cors
+const cors = require('cors');
 
 class Server{
     //constructor
@@ -17,6 +21,7 @@ class Server{
         this.app.set('port', process.env.PORT || 3000);
         //Indicar que las solicitudes http se trabajará en JSON
         this.app.use(express.json());
+        this.app.use(cors());
         /**
          * 
          * ******************Rutas**********************
@@ -27,14 +32,18 @@ class Server{
             console.log("Nueva conexión");
             res.status(200).json({message: "Hola mundo!"});
         });
-        const serverV = new serverVehiculo.default();
-        const serverA = new serverAdministrador.default();
-        const serverC = new serverConductor.default();
+        const serverV = new serverVehiculos.default();
+        const serverC = new serverConductores.default();
+        const serverA = new serverAdministradores.default();
+        const serverS = new serverSuperAd.default();
+        
         
         //añadir las rutas al servidor
         this.app.use(serverV.router);
-        this.app.use(serverA.router);
         this.app.use(serverC.router);
+        this.app.use(serverA.router);
+        this.app.use(serverS.router);
+        
         this.app.use(router);
         //Levantar el servidor/correr el servidor
         this.app.listen(this.app.get('port'), ()=>{

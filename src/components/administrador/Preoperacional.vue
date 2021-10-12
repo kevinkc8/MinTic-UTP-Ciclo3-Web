@@ -16,7 +16,7 @@
             <table class="table table-striped table-hover">
                 <thead>
                     <tr>
-                        <th>#</th>
+                        
                         <th>Nombre</th>						
                         <th>Vehiculo</th>
                         <th>Placa</th>
@@ -25,8 +25,10 @@
                     </tr>
                 </thead>
                 <tbody>
+                   
+                   
                     <tr>
-                        <td>1</td>
+                       
                         <td> </td>
                         <td></td>                        
                         <td></td>
@@ -37,7 +39,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>2</td>
+                        
                         <td> </td>
                         <td></td>                        
                         <td></td>
@@ -48,7 +50,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>3</td>
+                        
                         <td> </td>
                         <td></td>                        
                         <td></td>
@@ -59,7 +61,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>4</td>
+                        
                         <td> </td>
                         <td></td>                        
                         <td></td>
@@ -70,7 +72,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>5</td>
+                        
                         <td> </td>
                         <td></td>                        
                         <td></td>
@@ -81,7 +83,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>6</td>
+                        
                         <td> </td>
                         <td></td>                        
                         <td></td>
@@ -92,18 +94,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>7</td>
-                        <td> </td>
-                        <td></td>                        
-                        <td></td>
-                        <td><span class="status text-success">&bull;</span> Active</td>
-                        <td>
-                           <span href="" class="material-icons">insert_drive_file</span>
-                           
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>8</td>
+                      
                         <td> </td>
                         <td></td>                        
                         <td></td>
@@ -115,7 +106,7 @@
                     </tr>
 
                     <tr>
-                        <td>9</td>
+                        
                         <td> </td>
                         <td></td>                        
                         <td></td>
@@ -127,7 +118,7 @@
                     </tr>
                 
                    <tr>
-                        <td>10</td>
+                        
                         <td> </td>
                         <td></td>                        
                         <td></td>
@@ -160,8 +151,33 @@
 </template>
 
 <script>
+import store from "../store/index.js";
 
 
+
+
+
+export default {
+created: () => {
+    //accede a las acciones del store
+    
+    
+    store.dispatch("getDrivers");
+    store.dispatch("getVehicles");
+
+  },
+  computed: {
+   
+    
+    
+    drivers: () => {
+      return store.state.drivers;
+    },
+    vehicles: () => {
+      return store.state.vehicles;
+    },
+  },
+};
 
 
 

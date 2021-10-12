@@ -1,5 +1,5 @@
 <template>
-<div style="background-color:antiquewhite;  height: 1200px;">
+<div style="background-color:antiquewhite;  height: 1510px;">
  <v-toolbar id="menu-fixed"
      
       
@@ -44,21 +44,18 @@
       
     </v-toolbar>
     <listaconductores></listaconductores>
-    <registrousuario></registrousuario>
-
-    <Footer></Footer>
+    
   
 </div>
 </template>
 
 <script>
 import Listaconductores from '../../components/administrador/Listaconductores.vue'
-import Registrousuario from '../../components/administrador/Registrousuario.vue'
-import Footer from '@/components/Footer.vue'
+
 
 
 export default {
-    components: { Listaconductores, Registrousuario, Footer},
+    components: { Listaconductores},
    
         
 }

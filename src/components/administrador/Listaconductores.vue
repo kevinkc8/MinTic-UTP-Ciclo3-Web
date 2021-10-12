@@ -10,8 +10,8 @@
                     <img class="img-fluid" src="../../assets/perfil.png">
                   </div>
                   <div class="team-content">
-                    <h3 class="name">Nombre</h3>
-                    <h4 class="title">Cargo</h4>
+                    <h3 class="name">Pedro Rodriguez</h3>
+                    <h4 class="title">Administrador</h4>
                   </div>
                   
                 
@@ -39,70 +39,51 @@
             <table class="table table-striped table-hover">
                 <thead>
                     <tr>
-                        <th>#</th>
+                        
                         <th>Id</th>						
                         <th>Nombre</th>
                         <th>Apellido</th>
                         <th>Celular</th>
                         <th>Correo</th>
+                        <th>Licencia</th>
+                        <th>Acciones</th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td>1</td>
-                        <td> </td>
-                        <td></td>                        
-                        <td></td>
-                        <td></td>
-                        <td>
-                           
-                           
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td> </td>
-                        <td></td>                        
-                        <td></td>
-                        <td></td>
-                        <td>
-                          
-                           
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td> </td>
-                        <td></td>                        
-                        <td></td>
-                        <td></td>
-                        <td>
-                           
-                           
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>4</td>
-                        <td> </td>
-                        <td></td>                        
-                        <td></td>
-                        <td></td>
-                        <td>
-                           
-                           
-                        </td>
-                        <tr>
-                          <td>5</td>
-                          <td> </td>
-                          <td></td>                        
-                          <td></td>
-                          <td></td>
-                          <td>
-                             
-                             
-                          </td>
-                    </tr>
-                  
+                  <tr v-for="conductor in drivers" :key="conductor._id">
+                    <td>{{ conductor.idDocumentoUsu }}</td>
+                    <td>{{ conductor.nombre }}</td>
+                    <td>{{ conductor.apellido }}</td>
+                    <td>{{ conductor.telefono }}</td>
+                    <td>{{ conductor.email}}</td>
+                    <td>{{ conductor.licencia}}</td>
+                    
+                    
+                    <td>
+              <v-btn
+                @click="eliminarConductor(conductor._id)"
+              
+                x-small
+                color="secondary"
+                rounded
+                
+               
+                dark
+                >Eliminar</v-btn
+              >
+              <v-btn
+                @click="btnActualizar(conductor._id,conductor.idDocumentoUsu,conductor.nombre,conductor.apellido,conductor.rol,conductor.licencia,conductor.telefono,conductor.clave,conductor.email)"
+              
+                x-small
+                color="secondary"
+                rounded
+               
+                dark
+                >Actualizar</v-btn
+              >
+            </td>
+                  </tr>
+                   
                     
                 </tbody>
             </table>
@@ -121,6 +102,149 @@
     </div>
 </div> 
 
+<div class="container1">
+<div class="container register">
+                <div class="row">
+                    <div class="col-md-3 register-left">
+                             <h3 class="register-heading">Registrar Conductor</h3>
+                        <img src="../../assets/logo1.png" alt=""/>
+                    
+                        
+                    </div>
+                    <div class="col-md-9 register-right">
+                        
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                               
+                   
+                              
+    <v-form ref="form" v-model="valid" lazy-validation>
+     <v-text-field
+        v-model="idDocumentoUsu"
+        
+        :rules="idDocumentoRules"
+        label="Id"
+        type="number"
+        required
+      ></v-text-field>
+      <v-text-field
+        v-model="nombre"
+        :counter="10"
+        :rules="nombreRules"
+        label="Nombre"
+        required
+      ></v-text-field>
+
+      <v-text-field
+        v-model="apellido"
+        :counter="10"
+        :rules="apellidoRules"
+        label="Apellido"
+        required
+      ></v-text-field>
+
+      <v-text-field
+        v-model="rol"
+        :counter="10"
+        :rules="rolRules"
+        label="Rol"
+        required
+      ></v-text-field>
+      <v-text-field
+        v-model="licencia"
+    
+        :rules="licenciaRules"
+        label="Licencia"
+        required
+      ></v-text-field>
+      <v-text-field
+        v-model="telefono"
+        :counter="10"
+        :rules="telefonoRules"
+        label="Celular"
+        type="number"
+        required
+      ></v-text-field>
+      <v-text-field
+        v-model="clave"
+        :rules="claveRules"
+        label="Contraseña"
+        required
+      ></v-text-field>
+      <v-text-field
+        v-model="email"
+        :rules="emailRules"
+        label="E-mail"
+        required
+      ></v-text-field>
+      
+
+      <v-checkbox
+        v-model="checkbox"
+        :rules="[(v) => !!v || 'You must agree to continue!']"
+        label="Do you agree?"
+        required
+      ></v-checkbox>
+
+       <v-btn v-if="id==null" color="primary" class="btnRegister" @click="insertarConductor()">Registrar</v-btn>
+
+
+
+      <v-btn v-if="id!=null" color="primary" class="btnRegister" @click="actualizarConductor(id)"> Actualizar </v-btn>
+
+      <v-btn v-if="id!=null" color="error" class="btnRegister" v-on:click="btnCancelar"> Cancelar </v-btn>
+
+      <v-btn :disabled="!valid" color="success" class="btnRegister" @click="validate">
+        Validar
+      </v-btn>
+
+      <v-btn color="error" class="btnRegister" @click="reset"> Limpiar </v-btn>
+
+      
+    </v-form>
+     
+                              
+                        
+                    
+
+      
+     
+      
+                       
+      
+     
+      
+
+
+     
+
+     
+
+                        
+                           
+                          
+                        
+                           
+                           
+                   
+                </div>
+            </div>
+        </div>
+
+    </div>	
+</div>	
+
+
+
+
+</div>
+<v-footer class="footer1" height="90px" width="100%" color="#444343">
+  
+    <v-card-text class="py-2 white--text text-center">
+      <p style="color:white"> {{ new Date().getFullYear() }} — TEN TRANSPORTES. Todos los derechos reservados</p>
+    </v-card-text>
+    
+</v-footer>		                      
   
     
        
@@ -130,21 +254,126 @@
 </template>
 
 <script>
+import store from "../store/index.js";
+
+
+
 
 
 export default {
-data: () => ({
-    show: true,
-  })
-}
+ 
+  data: () => ({
+    valid: true,
+    nombre: '',
+    nombreRules: [
+      v => !!v || 'nombre es obligatorio',
+      v => (v && v.length <= 12) || 'Name must be less than 12 characters',
+    ],
+    apellido: "",
+    apellidoRules: [
+      v => !!v || 'apellido es obligatorio',
+      v => (v && v.length <= 12) || 'Name must be less than 12 characters',
+    ],
+    email: "",
+    emailRules: [
+      (v) => !!v || "E-mail es obligatorio",
+      (v) => /.+@.+\..+/.test(v) || "E-mail debe ser válido",
+    ],
+    licencia: "",
+    licenciaRules: [
+      (v) => !!v || "licencia es obligatorio",
+      (v) => /.+@.+\..+/.test(v) || "licencia debe ser válido",
+    ],
+    idDocumentoUsu: "",
+    idDocumentoUsuRules: [(v) => !!v || "id es obligatorio"],
+    checkbox: false,
+    id:null,
+   
+  
+  }),
+  methods: {
+  eliminarConductor(id) {
+      let obj = { id };
+      store.dispatch("deleteDrivers", obj).then(() => {
+        store.dispatch("getDrivers");
+      });
+    },
+    insertarConductor(){
+      let obj = { idDocumentoUsu: this.idDocumentoUsu,
+                  nombre: this.nombre, 
+                  apellido: this.apellido, 
+                  rol: this.rol,
+                  licencia: this.licencia,
+                  telefono: this.telefono,
+                   clave: this.clave,
+                  email: this.email,
 
+                  };
+      store.dispatch("setDrivers", obj).then(() => {
+        store.dispatch("getDrivers");
+      });
+      this.$refs.form.reset();
+    },
+    actualizarConductor(id){
+      let obj = { id: id,
+                  idDocumentoUsu: this.idDocumentoUsu,
+                  nombre: this.nombre, 
+                  apellido: this.apellido, 
+                  rol: this.rol,
+                  licencia: this.licencia,
+                  telefono: this.telefono,
+                  
+                  clave: this.clave,
+                  email: this.email    };
+      store.dispatch("updateDrivers", obj).then(() => {
+        store.dispatch("getDrivers");
+        this.id = null;
+      });
+      this.$refs.form.reset();
+    },
+   
+     
+      btnActualizar(id, idDocumentoUsu, nombre, apellido, rol, licencia, telefono, clave, email){
+      this.id = id;
+      this.idDocumentoUsu = idDocumentoUsu;
+      this.nombre = nombre; 
+      this.apellido = apellido; 
+      this.rol = rol; 
+      this.licencia = licencia;
+      this.telefono=telefono;
+     
+      this.clave = clave;
+       this.email = email
+      
+    },
+    btnCancelar(){
+      this.id = null;
+      this.$refs.form.reset();
+    },
 
-
-
-
-
+    validate() {
+      this.$refs.form.validate();
+    },
+    reset() {
+      this.$refs.form.reset();
+    },
+    resetValidation() {
+      this.$refs.form.resetValidation();
+    },
+  },
+  created: () => {
+    //accede a las acciones del store
+    
+    store.dispatch("getDrivers");
+  },
+  computed: {
+   
+    drivers: () => {
+      return store.state.drivers;
+    },
+  },
+};
 </script>
-
 <style>
 
 body {
@@ -401,5 +630,117 @@ table.table .avatar {
     color: #044970;
     }
     
+    .container1 {
+  left: 50px;
+    top:600px;
+    position: absolute;
+}
+.register{
+    background: -webkit-linear-gradient(left, #d1d1d1, rgb(170, 171, 172));
+    margin-top: 5%;
+    padding: 3%;
+     margin-bottom: 0%;
+}
+.register-left{
+    text-align: center;
+    color: #fff;
+    margin-top: 4%;
+}
+.register-left input{
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    width: 60%;
+    background: #f8f9fa;
+    font-weight: bold;
+    color: #383d41;
+    margin-top: 30%;
+    margin-bottom: 3%;
+    cursor: pointer;
+}
+.register-right{
+    background: #f8f9fa;
+   
+    border-bottom-left-radius: 10% 50%;
+}
+.register-left img{
+    margin-top: 50%;
+    margin-bottom: 5%;
+    width: 60%;
+    -webkit-animation: mover 2s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+}
+@-webkit-keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-20px); }
+}
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-20px); }
+}
+.register-left p{
+    font-weight: lighter;
+    padding: 12%;
+    margin-top: -9%;
+}
+.register .register-form{
+    padding: 10%;
+    margin-top: 10%;
+}
+.btnRegister{
+  
+    float: right;
+    margin-top: 10%;
+    border: none;
+    border-radius: 1.5rem !important;
+    padding: 2% !important;
+    background: rgba(4,73,112) !important;
+    color: #fff !important;
+    font-weight: 600 !important;
+    width: 20%;
+    cursor: pointer !important;
+}
+
+.register .nav-tabs{
+    margin-top: 3%;
+    border: none;
+   
+    border-radius: 1.5rem;
+    width: 28%;
+    float: right;
+}
+.register .nav-tabs .nav-link{
+    padding: 2%;
+    height: 34px;
+    font-weight: 600;
+    color: #fff;
+    border-top-right-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+}
+.register .nav-tabs .nav-link:hover{
+    border: none;
+}
+.register .nav-tabs .nav-link.active{
+    width: 200px;
+    color: rgba(237,105,17);
+    border: 2px solid rgba(4,73,112);
+    border-top-left-radius: 1.5rem;
+    border-bottom-left-radius: 1.5rem;
+}
+.register-heading{
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: -15%;
+    color: rgba(4,73,112);
+}
+
+.footer1 {
+  top: 1170px;
+    bottom: 0px;
+    background-color: #444343;
+    width: 100% !important;
+    position: relative !important;
+  }
+   
 
 </style>
